@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "947127439724",
+    "project_id": "checklistapp-c038d",
+    "storage_bucket": "checklistapp-c038d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:947127439724:android:19484678b385d0cc51e349",
+        "android_client_info": {
+          "package_name": "com.checklistpaulo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhTx-mUYLFh5EfVxPdFHF0FyHduzDSePY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
